@@ -168,7 +168,9 @@
 <br/>
 
 ## 06. 선언적 렌더링과 입력 핸들링
+<a href="https://github.com/Wholesome-Gee/vue3-test">https://github.com/Wholesome-Gee/vue3-test</a>
 <br/>
 
 ## 07. 조건문과 반복문
+<a href="https://github.com/Wholesome-Gee/vue3-test">https://github.com/Wholesome-Gee/vue3-test</a>
 <br/>
